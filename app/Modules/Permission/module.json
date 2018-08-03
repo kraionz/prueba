@@ -1,0 +1,22 @@
+{
+    "name": "Permission",
+    "module": "Permission",
+    "namespace": "App\\Modules\\Permission",
+    "provider": "App\\Modules\\Permission\\Providers\\PermissionServiceProvider",
+    "author": "Creatyon",
+    "url": "http:\/\/Creatyon.com",
+    "version": "1.0",
+    "description": "Permission",
+    "active": 0,
+    "core": 1,
+    "changelog": {
+        "versions": {
+            "1.0": {
+                "changed": [
+                    "Initial release"
+                ]
+            }
+        }
+    },
+    "path": "D:\\xampp\\htdocs\\core\\fancy\\fancy.base\\app\\Modules\/Permission"
+}

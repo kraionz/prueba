@@ -1,0 +1,21 @@
+{
+    "name": "Demo",
+    "plugin": "Demo",
+    "provider": "App\\Plugins\\Demo\\Providers\\BaseServiceProvider",
+    "author": "Creatyon",
+    "url": "http:\/\/coreyon.com",
+    "version": "1.0",
+    "description": "Base",
+    "active": 0,
+    "core": 1,
+    "changelog": {
+        "versions": {
+            "1.0": {
+                "changed": [
+                    "Initial release"
+                ]
+            }
+        }
+    },
+    "path": "D:\\xampp\\htdocs\\core\\fancy\\fancy.base\\app\\Plugins\/Demo"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Base",
+    "plugin": "Base",
+    "provider": "App\\Plugins\\Base\\Providers\\BaseServiceProvider",
+    "author": "Creatyon",
+    "url": "http://coreyon.com",
+    "version": "1.0",
+    "description": "Base",
+    "active": 0,
+    "core": 1
+}

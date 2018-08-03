@@ -1,0 +1,12 @@
+{
+    "name": "Setting",
+    "module": "Setting",
+    "namespace": "App\\Modules\\Setting",
+    "provider": "App\\Modules\\Setting\\Providers\\SettingServiceProvider",
+    "author": "Creatyon",
+    "url": "http://coreyon.com",
+    "version": "1.0",
+    "description": "Base",
+    "active": 0,
+    "core": 1
+}

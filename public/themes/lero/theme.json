@@ -1,0 +1,22 @@
+{
+    "name": "Lero",
+    "theme": "lero",
+    "description": "demo Theme",
+    "author": "Andres",
+    "version": "1.0.0",
+    "parent": "",
+    "admin": true,
+    "active": false,
+    "id": 4,
+    "changelog": {
+        "versions": {
+            "1.0": {
+                "changed": [
+                    "Initial release"
+                ]
+            }
+        }
+    },
+    "path": "D:\\xampp\\htdocs\\core\\fancy\\fancy.base\\public\\themes\/lero",
+    "logo": "logo.png"
+}

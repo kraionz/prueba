@@ -1,0 +1,22 @@
+{
+    "name": "Theme",
+    "module": "Theme",
+    "namespace": "App\\Modules\\Theme",
+    "provider": "App\\Modules\\Theme\\Providers\\ThemeServiceProvider",
+    "author": "Creatyon",
+    "url": "http:\/\/coreyon.com",
+    "version": "1.0",
+    "description": "Candelero",
+    "active": 0,
+    "core": 1,
+    "changelog": {
+        "versions": {
+            "1.0": {
+                "changed": [
+                    "Initial release"
+                ]
+            }
+        }
+    },
+    "path": "D:\\xampp\\htdocs\\core\\fancy\\fancy.base\\app\\Modules\/Theme"
+}

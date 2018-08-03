@@ -1,0 +1,22 @@
+{
+    "name": "Primary",
+    "theme": "default",
+    "description": "primary Theme",
+    "author": "Andres",
+    "version": "1.0.0",
+    "parent": "",
+    "admin": false,
+    "active": true,
+    "id": 1,
+    "changelog": {
+        "versions": {
+            "1.0": {
+                "changed": [
+                    "Initial release"
+                ]
+            }
+        }
+    },
+    "path": "D:\\xampp\\htdocs\\core\\fancy\\fancy.base\\public\\themes\/default",
+    "logo": "logo.png"
+}

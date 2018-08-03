@@ -1,0 +1,22 @@
+{
+    "name": "Demo",
+    "theme": "demo",
+    "description": "demo Theme",
+    "author": "Andres",
+    "version": "1.0.0",
+    "parent": "",
+    "admin": true,
+    "active": false,
+    "id": 3,
+    "changelog": {
+        "versions": {
+            "1.0": {
+                "changed": [
+                    "Initial release"
+                ]
+            }
+        }
+    },
+    "path": "D:\\xampp\\htdocs\\core\\fancy\\fancy.base\\public\\themes\/demo",
+    "logo": "logo.png"
+}
